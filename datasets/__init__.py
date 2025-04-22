@@ -1,0 +1,8 @@
+from .build import build_dataset_from_cfg
+import datasets.ShapeNet55Dataset
+import datasets.ModelNetDataset
+import datasets.ModelNetDatasetFewShot
+import datasets.ScanObjectNNDataset
+import datasets.HCP105Dataset
+import datasets.OldHCP105Dataset
+import datasets.SimpleHCP105Dataset

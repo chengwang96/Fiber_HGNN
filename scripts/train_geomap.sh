@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=4 python main.py --config cfgs/fibergeomap_hcp105.yaml --exp_name 82fx_subject_mh_fibergeomap --input_format fibergeomap --use_multi_hot --total_bs 2048
