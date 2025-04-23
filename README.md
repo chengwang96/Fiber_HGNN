@@ -1,9 +1,13 @@
+<div align="center">
+
 # Fiber HGNN
+
+</div>
 
 <div align="center">
   <a href='LICENSE'><img src='https://img.shields.io/badge/license-MIT-yellow'></a>
-  <a href='https://github.com/chengwang96/Fiber_HGNN'><img src="https://img.shields.io/badge/GitHub-fMRIFound-9E95B7?logo=github"></a> &nbsp; 
-  <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Model-fMRIFound-blue'></a> &nbsp; 
+  <a href='https://github.com/chengwang96/Fiber_HGNN'><img src="https://img.shields.io/badge/GitHub-FiberHGNN-9E95B7%3Flogo%3Dgithub"></a> &nbsp; 
+  <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Model-FiberHGNN-blue'></a> &nbsp; 
   <br>
 </div>
 
